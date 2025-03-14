@@ -1790,3 +1790,4 @@
 2025-01-28 05:41:39 fix config bug
 2025-07-23 02:53:37 restructure modules
 2025-11-29 01:33:10 remove unused import
+2025-03-14 10:32:12 add helper function
